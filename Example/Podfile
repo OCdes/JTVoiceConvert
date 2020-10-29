@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'JTVoiceConvert_Example' do
+  pod 'JTVoiceConvert', :path => '../'
+
+  target 'JTVoiceConvert_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

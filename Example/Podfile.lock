@@ -1,0 +1,16 @@
+PODS:
+  - JTVoiceConvert (0.1.0)
+
+DEPENDENCIES:
+  - JTVoiceConvert (from `../`)
+
+EXTERNAL SOURCES:
+  JTVoiceConvert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JTVoiceConvert: 6142d4d45fc627079de110acfcf1066a6043ddb2
+
+PODFILE CHECKSUM: 551577cb60fa74460485120eb693439634a3f06f
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,6 @@
+framework module Pods_JTVoiceConvert_Tests {
+  umbrella header "Pods-JTVoiceConvert_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
