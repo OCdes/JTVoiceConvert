@@ -1,6 +1,6 @@
 {
   "name": "JTVoiceConvert",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Converter between .amr and .wav file.",
   "homepage": "https://github.com/OCdes/JTVoiceConvert",
   "license": {
@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/OCdes/JTVoiceConvert.git",
-    "tag": "0.1.0"
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "8.0"
