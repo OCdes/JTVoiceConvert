@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JTVoiceConvert'
-  s.version          = '0.2.1'
+  s.version          = '0.2.2'
   s.summary          = 'Converter between .amr and .wav file.'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'git@github.com:OCdes/JTVoiceConvert.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
   s.libraries = "c++","c"
   s.xcconfig = { 'VALID_ARCHS' => 'arm64 x86_64 armv7 armv7s', }
   s.source_files = 'JTVoiceConvert/Classes/**/*'
