@@ -1,5 +1,5 @@
 PODS:
-  - JTVoiceConvert (0.2.0)
+  - JTVoiceConvert (0.2.1)
 
 DEPENDENCIES:
   - JTVoiceConvert (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  JTVoiceConvert: 27f535ef93d233b219f2314c00c43e0ac1963391
+  JTVoiceConvert: a6ce7685204221de8d63a9ab434863d3f503c380
 
 PODFILE CHECKSUM: 551577cb60fa74460485120eb693439634a3f06f
 
-COCOAPODS: 1.9.3
+COCOAPODS: 1.10.1

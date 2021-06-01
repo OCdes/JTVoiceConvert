@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		2E71EE0BF552F27413A869F8ED778D06 /* XKLIMAMRFileCodec.h in Headers */ = {isa = PBXBuildFile; fileRef = F5D05004D701760C2006B96CF9030A78 /* XKLIMAMRFileCodec.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3DECCBD1296B27E886A9F9537ED0E840 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		4AE5DCCA320194250A0CB80140FE4460 /* JTVoiceConvert-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A18DA75CAE232BF6DE43BF091C6A35D3 /* JTVoiceConvert-dummy.m */; };
 		601D920FE0501708E5178197468C23D1 /* interf_enc.h in Headers */ = {isa = PBXBuildFile; fileRef = 6535D6CFDEC5D609E050729658F2136E /* interf_enc.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6081EC42C921025088373E747C917157 /* XKLIMVoiceConverter.h in Headers */ = {isa = PBXBuildFile; fileRef = 63E4A56183BE1F3C8A42F75F6DAF6ECF /* XKLIMVoiceConverter.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -17,9 +16,10 @@
 		884B68C01A357723FCAA0E9EAA495D8C /* Pods-JTVoiceConvert_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 04952D5D79606AE1AAAC9D96BF3E403C /* Pods-JTVoiceConvert_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8A6183C724A6CA077DA937EEB0685D24 /* Pods-JTVoiceConvert_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B22BA95C6D806259FDD42BFDA66DA104 /* Pods-JTVoiceConvert_Tests-dummy.m */; };
 		8F32154CF6B0B80AF5CE1E493D643E85 /* Pods-JTVoiceConvert_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BC2D2889767E4F209776A5877205753 /* Pods-JTVoiceConvert_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B1B7FCD073B76C65A2B2AF1C97DB539D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		9449DB4212597E073B64CE69B0BCE9C6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		A374E323F5A102883D84F3DDBC50ADC9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		B2355DBA7C03CCF9391865D5543B7C9D /* XKLIMAMRFileCodec.m in Sources */ = {isa = PBXBuildFile; fileRef = DF269322956E374E9A1953FD657FF94D /* XKLIMAMRFileCodec.m */; };
-		BBCF13DC5C1D817DE5AFC23631237F54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		BA97AA449A09120F1D52EFF957341C2A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		CD03C74C49D7FAE2CEAAFFEC743E0B87 /* JTVoiceConvert-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 23096CA2395B3C288265421FAE23507E /* JTVoiceConvert-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CFF55F13D247823D5C8DE9857EFA63FC /* Pods-JTVoiceConvert_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C0536EFCF225873913B3489FBEE573C /* Pods-JTVoiceConvert_Example-dummy.m */; };
 		DD6804D9DAA4E64BCD42EED586795798 /* JTVoiceConverter.h in Headers */ = {isa = PBXBuildFile; fileRef = B9993562AACB52AD19C8914C87995022 /* JTVoiceConverter.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -52,7 +52,6 @@
 		23096CA2395B3C288265421FAE23507E /* JTVoiceConvert-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JTVoiceConvert-umbrella.h"; sourceTree = "<group>"; };
 		25107AAD65CFBAA2A41098F6AB2D7DF7 /* Pods-JTVoiceConvert_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JTVoiceConvert_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		25A4FE796ECD14B5F470EB70D189C8EF /* Pods-JTVoiceConvert_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-JTVoiceConvert_Tests.modulemap"; sourceTree = "<group>"; };
-		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3C0536EFCF225873913B3489FBEE573C /* Pods-JTVoiceConvert_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-JTVoiceConvert_Example-dummy.m"; sourceTree = "<group>"; };
 		4524C9470C55418B1F9E35DCEE3B6C87 /* JTVoiceConvert.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JTVoiceConvert.framework; path = JTVoiceConvert.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BDE137A59F5A46CE591D611581E8099 /* XKLIMVoiceConverter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XKLIMVoiceConverter.m; path = JTVoiceConvert/Classes/XKLIMVoiceConverter.m; sourceTree = "<group>"; };
@@ -64,6 +63,7 @@
 		6535D6CFDEC5D609E050729658F2136E /* interf_enc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = interf_enc.h; sourceTree = "<group>"; };
 		6944B7504755464D5CF79546990F5425 /* Pods-JTVoiceConvert_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JTVoiceConvert_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6B64A10A85BADF6E4DA91BECBEA879A8 /* libopencore-amrnb.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; path = "libopencore-amrnb.a"; sourceTree = "<group>"; };
+		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		8190EE97F3CD85202CD8B16F55FD0864 /* JTVoiceConvert-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JTVoiceConvert-Info.plist"; sourceTree = "<group>"; };
 		82FA3441C22507843E27A5E8F5D3FF7A /* JTVoiceConvert.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JTVoiceConvert.debug.xcconfig; sourceTree = "<group>"; };
 		8CD83BB07FF6C5A5A56D3ABD2B1E64FF /* JTVoiceConvert.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JTVoiceConvert.release.xcconfig; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BBCF13DC5C1D817DE5AFC23631237F54 /* Foundation.framework in Frameworks */,
+				BA97AA449A09120F1D52EFF957341C2A /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,7 +99,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B1B7FCD073B76C65A2B2AF1C97DB539D /* Foundation.framework in Frameworks */,
+				A374E323F5A102883D84F3DDBC50ADC9 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -107,7 +107,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3DECCBD1296B27E886A9F9537ED0E840 /* Foundation.framework in Frameworks */,
+				9449DB4212597E073B64CE69B0BCE9C6 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,6 +143,14 @@
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/JTVoiceConvert";
+			sourceTree = "<group>";
+		};
+		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
+			);
+			name = iOS;
 			sourceTree = "<group>";
 		};
 		7D5FA03DB77F169914BDB107F5D9C7CB /* Development Pods */ = {
@@ -196,14 +204,6 @@
 			path = "Target Support Files/Pods-JTVoiceConvert_Example";
 			sourceTree = "<group>";
 		};
-		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
 		CCB5FBCEC7D0B924AC292DAFE088D1DF /* JTVoiceConvert */ = {
 			isa = PBXGroup;
 			children = (
@@ -235,7 +235,7 @@
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
+				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -451,11 +451,10 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0C334D0436A259E19214FED43939D56D /* Release */ = {
+		00E52B432339545A6A47EC87975C08E0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8CD83BB07FF6C5A5A56D3ABD2B1E64FF /* JTVoiceConvert.release.xcconfig */;
+			baseConfigurationReference = 82FA3441C22507843E27A5E8F5D3FF7A /* JTVoiceConvert.debug.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -477,50 +476,16 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		2F3043CDD21C8F285B4F0CB2690A5428 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6944B7504755464D5CF79546990F5425 /* Pods-JTVoiceConvert_Tests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-JTVoiceConvert_Tests/Pods-JTVoiceConvert_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-JTVoiceConvert_Tests/Pods-JTVoiceConvert_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		4BE66A09A74FD25164AAB3C2645B9B93 /* Release */ = {
+		6D42DC62C4F2E194221DF89C48496C98 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -543,6 +508,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -577,10 +543,140 @@
 			};
 			name = Release;
 		};
-		7EF7227D9B20A1D549000096ACCB23D7 /* Debug */ = {
+		9EEB5E5C45FC26CBC6F5E2653908C5BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 25107AAD65CFBAA2A41098F6AB2D7DF7 /* Pods-JTVoiceConvert_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-JTVoiceConvert_Example/Pods-JTVoiceConvert_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-JTVoiceConvert_Example/Pods-JTVoiceConvert_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		B4210179AF35B0266F693CCD900ECBE6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 114530CAC496DF664D5A5D25CE8FC1DF /* Pods-JTVoiceConvert_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-JTVoiceConvert_Example/Pods-JTVoiceConvert_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-JTVoiceConvert_Example/Pods-JTVoiceConvert_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		BCB81AA824623578545DBBF3E4A3A5AA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6944B7504755464D5CF79546990F5425 /* Pods-JTVoiceConvert_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-JTVoiceConvert_Tests/Pods-JTVoiceConvert_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-JTVoiceConvert_Tests/Pods-JTVoiceConvert_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		C57E65D2FA70FB799753ED9BF7BB7A71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8CD83BB07FF6C5A5A56D3ABD2B1E64FF /* JTVoiceConvert.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/JTVoiceConvert/JTVoiceConvert-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/JTVoiceConvert/JTVoiceConvert-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/JTVoiceConvert/JTVoiceConvert.modulemap";
+				PRODUCT_MODULE_NAME = JTVoiceConvert;
+				PRODUCT_NAME = JTVoiceConvert;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		E4D0D44B090D4284607EBBC4E71A96C1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -603,6 +699,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -641,46 +738,11 @@
 			};
 			name = Debug;
 		};
-		A9BF9EC75F110FB651D0F4FE3A1D2EB7 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 114530CAC496DF664D5A5D25CE8FC1DF /* Pods-JTVoiceConvert_Example.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-JTVoiceConvert_Example/Pods-JTVoiceConvert_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-JTVoiceConvert_Example/Pods-JTVoiceConvert_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		ABB647100C4B48D75968BCE27E76FC04 /* Debug */ = {
+		F1B724521BA0190DBF34860CE3837321 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A66563977AF981EE74FB7DFCE985A57E /* Pods-JTVoiceConvert_Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -708,78 +770,14 @@
 			};
 			name = Debug;
 		};
-		B32D912D5122C270169BBC1C37D1CC00 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 82FA3441C22507843E27A5E8F5D3FF7A /* JTVoiceConvert.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/JTVoiceConvert/JTVoiceConvert-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/JTVoiceConvert/JTVoiceConvert-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/JTVoiceConvert/JTVoiceConvert.modulemap";
-				PRODUCT_MODULE_NAME = JTVoiceConvert;
-				PRODUCT_NAME = JTVoiceConvert;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		EC64C107C877A53D728206CFF05BF789 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 25107AAD65CFBAA2A41098F6AB2D7DF7 /* Pods-JTVoiceConvert_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-JTVoiceConvert_Example/Pods-JTVoiceConvert_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-JTVoiceConvert_Example/Pods-JTVoiceConvert_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
 		38A4B82179305A2B7642614D5BB299E4 /* Build configuration list for PBXNativeTarget "Pods-JTVoiceConvert_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EC64C107C877A53D728206CFF05BF789 /* Debug */,
-				A9BF9EC75F110FB651D0F4FE3A1D2EB7 /* Release */,
+				9EEB5E5C45FC26CBC6F5E2653908C5BE /* Debug */,
+				B4210179AF35B0266F693CCD900ECBE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -787,8 +785,8 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7EF7227D9B20A1D549000096ACCB23D7 /* Debug */,
-				4BE66A09A74FD25164AAB3C2645B9B93 /* Release */,
+				E4D0D44B090D4284607EBBC4E71A96C1 /* Debug */,
+				6D42DC62C4F2E194221DF89C48496C98 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -796,8 +794,8 @@
 		6A5847B2E6EEEFB7E08ABAE99D0312D1 /* Build configuration list for PBXNativeTarget "JTVoiceConvert" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B32D912D5122C270169BBC1C37D1CC00 /* Debug */,
-				0C334D0436A259E19214FED43939D56D /* Release */,
+				00E52B432339545A6A47EC87975C08E0 /* Debug */,
+				C57E65D2FA70FB799753ED9BF7BB7A71 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -805,8 +803,8 @@
 		DEBC6C3F9A835BA5B82DA752A4684788 /* Build configuration list for PBXNativeTarget "Pods-JTVoiceConvert_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ABB647100C4B48D75968BCE27E76FC04 /* Debug */,
-				2F3043CDD21C8F285B4F0CB2690A5428 /* Release */,
+				F1B724521BA0190DBF34860CE3837321 /* Debug */,
+				BCB81AA824623578545DBBF3E4A3A5AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
